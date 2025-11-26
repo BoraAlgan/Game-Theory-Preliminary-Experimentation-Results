@@ -1,0 +1,200 @@
+
+Spymaster: EXPERT, Guesser: EXPERT
+- Avg Score: 1.00
+- % Success: 12.00%
+- % Fail (Blue): 1.50%
+- % Natural (Neutral): 6.00%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: EXPERT, Guesser: GOOD
+- Avg Score: 0.80
+- % Success: 11.00%
+- % Fail (Blue): 3.00%
+- % Natural (Neutral): 6.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: EXPERT, Guesser: MID
+- Avg Score: 0.35
+- % Success: 8.50%
+- % Fail (Blue): 4.50%
+- % Natural (Neutral): 6.50%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: EXPERT, Guesser: BAD
+- Avg Score: -0.10
+- % Success: 5.50%
+- % Fail (Blue): 7.00%
+- % Natural (Neutral): 7.00%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: EXPERT, Guesser: TERRIBLE
+- Avg Score: 0.35
+- % Success: 8.50%
+- % Fail (Blue): 5.00%
+- % Natural (Neutral): 6.50%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: GOOD, Guesser: EXPERT
+- Avg Score: 0.95
+- % Success: 12.50%
+- % Fail (Blue): 2.50%
+- % Natural (Neutral): 5.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: GOOD, Guesser: GOOD
+- Avg Score: 0.10
+- % Success: 9.00%
+- % Fail (Blue): 8.00%
+- % Natural (Neutral): 3.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: GOOD, Guesser: MID
+- Avg Score: 0.25
+- % Success: 10.00%
+- % Fail (Blue): 7.50%
+- % Natural (Neutral): 2.50%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: GOOD, Guesser: BAD
+- Avg Score: 0.45
+- % Success: 9.50%
+- % Fail (Blue): 4.00%
+- % Natural (Neutral): 5.50%
+- % Lose (Black): 1.02%
+- Num of Games: 20
+
+Spymaster: GOOD, Guesser: TERRIBLE
+- Avg Score: 0.65
+- % Success: 11.00%
+- % Fail (Blue): 4.00%
+- % Natural (Neutral): 4.00%
+- % Lose (Black): 1.02%
+- Num of Games: 20
+
+Spymaster: MID, Guesser: EXPERT
+- Avg Score: 0.70
+- % Success: 11.50%
+- % Fail (Blue): 4.00%
+- % Natural (Neutral): 4.00%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: MID, Guesser: GOOD
+- Avg Score: 0.55
+- % Success: 10.00%
+- % Fail (Blue): 4.00%
+- % Natural (Neutral): 5.50%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: MID, Guesser: MID
+- Avg Score: 0.60
+- % Success: 10.50%
+- % Fail (Blue): 4.50%
+- % Natural (Neutral): 5.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: MID, Guesser: BAD
+- Avg Score: 0.10
+- % Success: 6.50%
+- % Fail (Blue): 5.50%
+- % Natural (Neutral): 8.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: MID, Guesser: TERRIBLE
+- Avg Score: 0.00
+- % Success: 8.00%
+- % Fail (Blue): 8.00%
+- % Natural (Neutral): 4.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: BAD, Guesser: EXPERT
+- Avg Score: 0.85
+- % Success: 12.00%
+- % Fail (Blue): 3.00%
+- % Natural (Neutral): 5.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: BAD, Guesser: GOOD
+- Avg Score: 0.50
+- % Success: 10.00%
+- % Fail (Blue): 5.00%
+- % Natural (Neutral): 5.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: BAD, Guesser: MID
+- Avg Score: 0.25
+- % Success: 6.50%
+- % Fail (Blue): 4.50%
+- % Natural (Neutral): 8.00%
+- % Lose (Black): 1.02%
+- Num of Games: 20
+
+Spymaster: BAD, Guesser: BAD
+- Avg Score: 0.00
+- % Success: 6.00%
+- % Fail (Blue): 6.00%
+- % Natural (Neutral): 8.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: BAD, Guesser: TERRIBLE
+- Avg Score: 0.35
+- % Success: 8.50%
+- % Fail (Blue): 5.50%
+- % Natural (Neutral): 5.50%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: TERRIBLE, Guesser: EXPERT
+- Avg Score: 0.65
+- % Success: 12.00%
+- % Fail (Blue): 5.00%
+- % Natural (Neutral): 2.50%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: TERRIBLE, Guesser: GOOD
+- Avg Score: 0.50
+- % Success: 9.50%
+- % Fail (Blue): 4.50%
+- % Natural (Neutral): 6.00%
+- % Lose (Black): 0.00%
+- Num of Games: 20
+
+Spymaster: TERRIBLE, Guesser: MID
+- Avg Score: -0.05
+- % Success: 6.50%
+- % Fail (Blue): 6.50%
+- % Natural (Neutral): 6.50%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: TERRIBLE, Guesser: BAD
+- Avg Score: 0.20
+- % Success: 8.00%
+- % Fail (Blue): 6.50%
+- % Natural (Neutral): 5.00%
+- % Lose (Black): 0.51%
+- Num of Games: 20
+
+Spymaster: TERRIBLE, Guesser: TERRIBLE
+- Avg Score: 0.20
+- % Success: 8.50%
+- % Fail (Blue): 6.00%
+- % Natural (Neutral): 5.00%
+- % Lose (Black): 0.51%
+- Num of Games: 20
