@@ -15,9 +15,10 @@ This repository contains a simulation of the **Codenames** game from a **game th
 Install required dependencies manually (for example, spacy and json for NLP and data handling):
 
 Requirements:
+   ```bash
 pip install spacy
 pip install json
-
+```
 Results:
 Simulated results are stored in simulation_results.txt.
 
